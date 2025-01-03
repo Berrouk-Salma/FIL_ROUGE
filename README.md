@@ -55,7 +55,6 @@ Bonnes pratiques
 Impact environnemental
 
 Transactions
-
 Historique échanges
 Système feedback
 Évaluations
