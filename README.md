@@ -1,9 +1,25 @@
 ACTEURS
 
+
+
+
+
+
+
+
+
 Ménages (Publication produits non consommés)
 Entreprises (Gestion invendus)
 Organisations collecte (Redistribution)
 Administrateurs (Gestion système)
+
+
+
+
+
+
+
+
 
 FONCTIONNALITÉS PRINCIPALES
 Gestion Comptes
